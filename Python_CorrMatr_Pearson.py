@@ -1,3 +1,16 @@
+# ============================================================================
+# Landsat time-series image processing, Inner Niger Delta, Mali.
+# Code from the peer-reviewed article:
+#   Lemenkova, P.; Debeir, O. (2023). Time Series Analysis of Landsat Images for
+#   Monitoring Flooded Areas in the Inner Niger Delta, Mali.
+#   Artificial Satellites, 58(4), 278-313.
+#   DOI:    https://doi.org/10.2478/arsa-2023-0011
+#   Zenodo: https://zenodo.org/records/10535135
+#   HAL:    https://hal.science/hal-04406525v1
+#
+# Authors: Polina Lemenkova, Olivier Debeir  |  ORCID: 0000-0002-5759-1089
+# ============================================================================
+
 #!/usr/bin/env python
 # coding: utf-8
 import os
